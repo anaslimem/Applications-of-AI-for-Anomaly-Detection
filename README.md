@@ -15,6 +15,6 @@ This project leverages AI techniques to analyze data for anomalies that might in
 
 - `Applications-of-AI-for-Anomaly-Detection.ipynb`: Main Jupyter Notebook for running and visualizing the anomaly detection models.
 - `preprocess_data.py`: Python script for preprocessing the raw data.
-- `data/`: Directory for storing data files (note: large files are not included in this repository).
+- `data/`: Directory for storing data files (note: large files are not included in this repository so we will give you a link of a drive which has the data).
 
 
